@@ -1,6 +1,6 @@
 {
   "name": "coppa-age",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine if input age is COPPA compliant.",
   "main": "index.js",
   "scripts": {
