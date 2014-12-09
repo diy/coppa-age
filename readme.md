@@ -11,7 +11,7 @@ w/ COPPA if it ever changes.
 npm install coppa-age
 ```
 
-```
+```js
 var coppaOk = require('coppa-age');
 
 var age = 14;
