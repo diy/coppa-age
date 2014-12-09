@@ -1,0 +1,28 @@
+{
+  "name": "coppa-age",
+  "version": "1.0.0",
+  "description": "Determine if input age is COPPA compliant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diy/coppa-age"
+  },
+  "keywords": [
+    "coppa",
+    "age",
+    "kids",
+    "security"
+  ],
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diy/coppa-age/issues"
+  },
+  "homepage": "https://github.com/diy/coppa-age",
+  "dependencies": {
+    "tap": "^0.4.13"
+  }
+}
